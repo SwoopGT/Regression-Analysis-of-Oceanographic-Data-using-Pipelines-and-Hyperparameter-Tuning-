@@ -1,6 +1,9 @@
 # SLR-MLR-Regression---Polynomial-Features-and-Pipelines-
-A comparison of metrics for Linear Regression and Multiple Linear Regression is made.
 
-Includes creation of polynomial features and streamlining the process using Pipelines.
+A primary analysis of data pertaining to oceangraphic properties is carried out.
+
+A comparison of metrics for the developed Linear Regression and Multiple Linear Regression models is done.
+
+Polynomial features are created and the process is streamlined using Pipelines.
 
 Model is fine-tuned using GridSearch for hyperparameter tuning.
