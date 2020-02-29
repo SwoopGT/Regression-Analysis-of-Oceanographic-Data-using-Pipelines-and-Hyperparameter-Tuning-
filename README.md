@@ -1,4 +1,4 @@
-# SLR-MLR-Regression---Polynomial-Features-and-Pipelines-
+# Regression-Analysis-of-Oceanographic-Data-using-Pipelines-and-Hyperparameter-Tuning-
 
 A primary analysis of data pertaining to oceangraphic properties is carried out.
 
